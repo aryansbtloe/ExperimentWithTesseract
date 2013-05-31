@@ -10,14 +10,6 @@
 		5CA6332D16E60957006B6F47 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CA6332C16E60957006B6F47 /* MobileCoreServices.framework */; };
 		5CCA200116E7003100EF174C /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA1FFF16E7003100EF174C /* 0.jpg */; };
 		5CCA200216E7003100EF174C /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA200016E7003100EF174C /* 1.jpg */; };
-		5CCA202116E727A100EF174C /* photo_cropper_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA201816E727A100EF174C /* photo_cropper_bg.png */; };
-		5CCA202216E727A100EF174C /* photo_cropper_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA201916E727A100EF174C /* photo_cropper_bg@2x.png */; };
-		5CCA202316E727A100EF174C /* photo_cropper_rect.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA201A16E727A100EF174C /* photo_cropper_rect.png */; };
-		5CCA202416E727A100EF174C /* photo_cropper_rect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA201B16E727A100EF174C /* photo_cropper_rect@2x.png */; };
-		5CCA202516E727A100EF174C /* photo_cropper_rect_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA201C16E727A100EF174C /* photo_cropper_rect_on.png */; };
-		5CCA202616E727A100EF174C /* photo_cropper_rect_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA201D16E727A100EF174C /* photo_cropper_rect_on@2x.png */; };
-		5CCA202716E727A100EF174C /* SSPhotoCropperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CCA201F16E727A100EF174C /* SSPhotoCropperViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		5CCA202816E727A100EF174C /* SSPhotoCropperViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5CCA202016E727A100EF174C /* SSPhotoCropperViewController.xib */; };
 		5CDDF4B216E85D4F007B57C2 /* ImageFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CDDF4B116E85D4F007B57C2 /* ImageFilter.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		5CDDF4C316E85DEA007B57C2 /* BezierCurve.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CDDF4B516E85DEA007B57C2 /* BezierCurve.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		5CDDF4C416E85DEA007B57C2 /* CatmullRomSpline.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CDDF4B716E85DEA007B57C2 /* CatmullRomSpline.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -51,15 +43,6 @@
 		5CA6332C16E60957006B6F47 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		5CCA1FFF16E7003100EF174C /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
 		5CCA200016E7003100EF174C /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
-		5CCA201816E727A100EF174C /* photo_cropper_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_cropper_bg.png; sourceTree = "<group>"; };
-		5CCA201916E727A100EF174C /* photo_cropper_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_cropper_bg@2x.png"; sourceTree = "<group>"; };
-		5CCA201A16E727A100EF174C /* photo_cropper_rect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_cropper_rect.png; sourceTree = "<group>"; };
-		5CCA201B16E727A100EF174C /* photo_cropper_rect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_cropper_rect@2x.png"; sourceTree = "<group>"; };
-		5CCA201C16E727A100EF174C /* photo_cropper_rect_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_cropper_rect_on.png; sourceTree = "<group>"; };
-		5CCA201D16E727A100EF174C /* photo_cropper_rect_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_cropper_rect_on@2x.png"; sourceTree = "<group>"; };
-		5CCA201E16E727A100EF174C /* SSPhotoCropperViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPhotoCropperViewController.h; sourceTree = "<group>"; };
-		5CCA201F16E727A100EF174C /* SSPhotoCropperViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPhotoCropperViewController.m; sourceTree = "<group>"; };
-		5CCA202016E727A100EF174C /* SSPhotoCropperViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SSPhotoCropperViewController.xib; sourceTree = "<group>"; };
 		5CDDF4B016E85D4F007B57C2 /* ImageFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageFilter.h; sourceTree = "<group>"; };
 		5CDDF4B116E85D4F007B57C2 /* ImageFilter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageFilter.m; sourceTree = "<group>"; };
 		5CDDF4B416E85DEA007B57C2 /* BezierCurve.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BezierCurve.h; sourceTree = "<group>"; };
@@ -230,30 +213,6 @@
 			name = "images to test";
 			sourceTree = "<group>";
 		};
-		5CCA201616E727A100EF174C /* SSPhotoCropper */ = {
-			isa = PBXGroup;
-			children = (
-				5CCA201716E727A100EF174C /* Graphics */,
-				5CCA201E16E727A100EF174C /* SSPhotoCropperViewController.h */,
-				5CCA201F16E727A100EF174C /* SSPhotoCropperViewController.m */,
-				5CCA202016E727A100EF174C /* SSPhotoCropperViewController.xib */,
-			);
-			path = SSPhotoCropper;
-			sourceTree = "<group>";
-		};
-		5CCA201716E727A100EF174C /* Graphics */ = {
-			isa = PBXGroup;
-			children = (
-				5CCA201816E727A100EF174C /* photo_cropper_bg.png */,
-				5CCA201916E727A100EF174C /* photo_cropper_bg@2x.png */,
-				5CCA201A16E727A100EF174C /* photo_cropper_rect.png */,
-				5CCA201B16E727A100EF174C /* photo_cropper_rect@2x.png */,
-				5CCA201C16E727A100EF174C /* photo_cropper_rect_on.png */,
-				5CCA201D16E727A100EF174C /* photo_cropper_rect_on@2x.png */,
-			);
-			path = Graphics;
-			sourceTree = "<group>";
-		};
 		5CDDF4AF16E85D3D007B57C2 /* ImageFilterCategory */ = {
 			isa = PBXGroup;
 			children = (
@@ -299,7 +258,6 @@
 			children = (
 				5CDDF4B316E85DEA007B57C2 /* Curve */,
 				5CDDF4AF16E85D3D007B57C2 /* ImageFilterCategory */,
-				5CCA201616E727A100EF174C /* SSPhotoCropper */,
 				5C6A84FB16E4DDEB0048A978 /* images to test */,
 				C0C9FE26162374B000741F7F /* TesseractSample */,
 				C0C9FE1F162374B000741F7F /* Frameworks */,
@@ -572,13 +530,6 @@
 				C0C9002E1623773700741F7F /* tessdata in Resources */,
 				5CCA200116E7003100EF174C /* 0.jpg in Resources */,
 				5CCA200216E7003100EF174C /* 1.jpg in Resources */,
-				5CCA202116E727A100EF174C /* photo_cropper_bg.png in Resources */,
-				5CCA202216E727A100EF174C /* photo_cropper_bg@2x.png in Resources */,
-				5CCA202316E727A100EF174C /* photo_cropper_rect.png in Resources */,
-				5CCA202416E727A100EF174C /* photo_cropper_rect@2x.png in Resources */,
-				5CCA202516E727A100EF174C /* photo_cropper_rect_on.png in Resources */,
-				5CCA202616E727A100EF174C /* photo_cropper_rect_on@2x.png in Resources */,
-				5CCA202816E727A100EF174C /* SSPhotoCropperViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -593,7 +544,6 @@
 				C0C9FE31162374B000741F7F /* AppDelegate.m in Sources */,
 				C0C9FE3A162374B000741F7F /* ViewController.m in Sources */,
 				C0C900241623757F00741F7F /* Tesseract.mm in Sources */,
-				5CCA202716E727A100EF174C /* SSPhotoCropperViewController.m in Sources */,
 				5CDDF4B216E85D4F007B57C2 /* ImageFilter.m in Sources */,
 				5CDDF4C316E85DEA007B57C2 /* BezierCurve.m in Sources */,
 				5CDDF4C416E85DEA007B57C2 /* CatmullRomSpline.m in Sources */,
